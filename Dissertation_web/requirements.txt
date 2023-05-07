@@ -1,0 +1,13 @@
+asgiref==3.2.10
+captcha==0.3
+cycler==0.10.0
+Django==2.2
+kiwisolver==1.2.0
+matplotlib==3.3.0
+numpy==1.19.1
+Pillow==7.2.0
+pyparsing==2.4.7
+python-dateutil==2.8.1
+pytz==2020.1
+six==1.15.0
+sqlparse==0.3.1
